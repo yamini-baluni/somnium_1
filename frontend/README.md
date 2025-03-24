@@ -1,4 +1,10 @@
 # React + Vite
+# Solos - AI Chatbot
+
+## Description
+Solos is a peronalised AI-powered chatbot that helps users to get the best results in the minimal time with interactive interface for accessibility.
+ 
+ ## Installation and usage
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
