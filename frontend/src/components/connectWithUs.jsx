@@ -9,15 +9,15 @@ const ContactSection = () => {
         <div className="flex flex-col items-center">
           <FaPhoneAlt className="text-green-400 text-3xl mb-2" />
           <h3 className="text-lg font-semibold">Contacts</h3>
-          <p>info@youraddress.com</p>
+          <p>info@Solostech.com</p>
           <p>646-675-5974</p>
         </div>
 
         <div className="flex flex-col items-center">
           <FaMapMarkerAlt className="text-green-400 text-3xl mb-2" />
           <h3 className="text-lg font-semibold">Location</h3>
-          <p>3961 Small Street, New York</p>
-          <p>United States</p>
+          <p>3961 Small Street, Delhi</p>
+          <p>India</p>
         </div>
 
         <div className="flex flex-col items-center">
@@ -45,7 +45,7 @@ const ContactSection = () => {
         <FaInstagram className="cursor-pointer hover:text-green-400" />
       </div>
 
-      <p className="mt-6 text-sm">&copy; All Rights Reserved. SOLOS AI Chatbot</p>
+      <p className="mt-6 text-sm">&copy; All Rights Reserved 2025. SOLOS AI Chatbot</p>
     </div>
   );
 };
